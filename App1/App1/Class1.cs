@@ -10,6 +10,10 @@ namespace App1
     {
         string stringa = string.Empty;
         int intero = -1;
-        decimal decimale = -1; 
+        decimal decimale = -1;
+
+        string stringa2 = string.Empty;
+        int intero2 = -1;
+        decimal decimale2 = -1;
     }
 }
