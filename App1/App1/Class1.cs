@@ -11,11 +11,11 @@ namespace App1
         string stringa = string.Empty;
         int intero = -1;
         bool booleano = false;
+        decimal decimale = -1;
 
         string stringaRepository = string.Empty;
         int interoRepository = -1;
         bool booleanoRepository = false;
-        decimal decimale = -1;
 
         string stringaTest = string.Empty;
         int interoTest = -1;
