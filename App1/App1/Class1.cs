@@ -10,5 +10,6 @@ namespace App1
     {
         string stringa = string.Empty;
         int intero = -1;
+        bool booleano = false;
     }
 }
