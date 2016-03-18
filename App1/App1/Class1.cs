@@ -11,5 +11,9 @@ namespace App1
         string stringa = string.Empty;
         int intero = -1;
         bool booleano = false;
+
+        string stringaTest = string.Empty;
+        int interoTest = -1;
+        bool booleanoTest = false;
     }
 }
