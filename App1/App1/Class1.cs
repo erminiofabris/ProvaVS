@@ -13,6 +13,10 @@ namespace App1
         bool booleano = false;
         decimal decimale = -1; 
 
+        string stringaRepository = string.Empty;
+        int interoRepository = -1;
+        bool booleanoRepository = false;
+
         string stringaTest = string.Empty;
         int interoTest = -1;
         bool booleanoTest = false;
